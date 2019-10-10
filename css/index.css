@@ -186,6 +186,7 @@ img {
   color: black;
   text-decoration: none;
 }
+
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
@@ -273,6 +274,6 @@ img {
   height: 45px;
   font-size: 2rem;
   border-radius: 10px;
-  color: white;
-  background: aquamarine;
+  color: #FFFFFF;
+  background: #17A2B8;
 }
